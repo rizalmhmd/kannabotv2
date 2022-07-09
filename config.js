@@ -53,23 +53,23 @@ global.sdc = 'https://github.com/aryjuanda'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085762008398'
-global.povo = 'gaada :v'
+global.pdana = 'gaada :vg'
+global.povo = '082322133457'
 global.pgopay = 'gaada :v'
-global.ppulsa = '085762008398'
-global.ppulsa2 = '085763050960'
+global.ppulsa = '081333154367'
+global.ppulsa2 = '081333154367'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285763050960'
-global.nomorown = '994408465157'
-global.namebot = 'AryBotz Ofc'
-global.nameown = 'X Ary Offcial'
+global.nomorbot = '6281333154367'
+global.nomorown = '6281333154367'
+global.namebot = 'ZALLxBOTZ'
+global.nameown = 'Zall'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['994408465157', 'X Ary Offcial', true]
+  ['6281333154367', 'Zall', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
