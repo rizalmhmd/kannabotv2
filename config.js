@@ -114,12 +114,12 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '「 AryBotz |Ary Offcial⁩ 」' //Main Watermark
-global.wm2 = '    乂 AryBotz 乂     '
-global.wm3 = 'AryBotz |ᗪ'
+global.wm = '「 zall |ganz⁩ 」' //Main Watermark
+global.wm2 = '    乂 zall 乂     '
+global.wm3 = 'zall |ᗪ'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = 'AryGanz✯✯✯✯✯ '
+global.titlebot = 'ZALLxBOTZ'
 global.author = global.wm
 
 
