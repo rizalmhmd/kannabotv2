@@ -151,15 +151,15 @@ global.fpagedoc = '999'
 /*=========== HIASAN ===========*/
 // DEFAULT MENU
 global.dmenut = '    ➪' //top
-global.dmenub = '🌎 ' //body
-global.dmenub2 = '🌎 ' //body for info cmd on Default menu
+global.dmenub = '➹ ' //body
+global.dmenub2 = '➹ ' //body for info cmd on Default menu
 global.dmenuf = '\n' //footer
 
 // COMMAND MENUFonts for Android and iPhone  - www.fontskeyboard.com/share-now
 global.dashmenu = '「▰▰▰▱▱▱▱▱▱▱」'
 global.cmenut = '       『'                       //top
 global.cmenuh = '』'                        //header
-global.cmenub = '🚀 '                            //body
+global.cmenub = '✦ '                            //body
 global.cmenuf = '\n'                //footer
 global.cmenua = '\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ ⌕\n     ' //after
 global.pmenus = '➪'                              //pembatas menu selector
