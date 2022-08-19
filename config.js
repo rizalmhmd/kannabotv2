@@ -107,9 +107,9 @@ global.APIKeys = { // APIKey Here
   'https://melcanz.com': 'manHkmst',
   'https://neoxr-api.herokuapp.com': 'yntkts',
   'https://server-api-rey.herokuapp.com': 'apirey',
-  'https://botstyle-api.herokuapp.com': 'APIKEY',
+  'https://botstyle-api.herokuapp.com': '3WKdM32Q',
   'https://hardianto.xyz': 'hardianto',
-  'https://leyscoders-api.herokuapp.com': 'dappakntlll'
+  'https://leyscoders-api.herokuapp.com': 'MIMINGANZ'
 }
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
