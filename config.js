@@ -63,8 +63,8 @@ global.psaweria = '-'
 /*============== NOMOR ==============*/
 global.nomorbot = '6281333154367'
 global.nomorown = '6281333154367'
-global.namebot = 'ZALLxBOTZ'
-global.nameown = 'Zall'
+global.namebot = '𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕'
+global.nameown = '𝚉𝚊𝚕𝚕'
 
 
 /*============== STAFF ==============*/
@@ -98,13 +98,13 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'APIKEY',
+  'https://api.xteam.xyz': 'NezukoTachibana281207',
   'https://anabotofc.herokuapp.com/': 'APIKEY',
-  'https://api.lolhuman.xyz': 'APIKEY',
+  'https://api.lolhuman.xyz': 'azzbot',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.me': 'apivinz',
   'https://pencarikode.xyz': 'pais',
-  'https://melcanz.com': 'APIKEY',
+  'https://melcanz.com': 'manHkmst',
   'https://neoxr-api.herokuapp.com': 'yntkts',
   'https://server-api-rey.herokuapp.com': 'apirey',
   'https://botstyle-api.herokuapp.com': 'APIKEY',
